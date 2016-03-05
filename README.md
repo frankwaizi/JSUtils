@@ -11,7 +11,7 @@ for(let i in query) {
 
 queryString = queryString.slice(0, -1);
 ```
----
+
 ### 2、金额格式化
 ```javascript
 let sign = (num == ( num = Math.abs(num)));
